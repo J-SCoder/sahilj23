@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">A passionate Full Stack developer and Competitive Programmer from India</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilj23&label=Profile%20views&color=0e75b6&style=flat" alt="sahilj23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-SCoder&label=Profile%20views&color=0e75b6&style=flat" alt="J-SCoder" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
